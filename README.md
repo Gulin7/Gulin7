@@ -17,7 +17,7 @@
 <a href="https://discord.com/users/250670176788283392" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="guy-coding" height="55" width="30" /></a>
 </p>
 
-<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" />My tech stack</h2>
+<h2 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" />&nbsp;&nbsp;My tech stack</h2>
 <h4> Programming Languages </h4>
 <p align="left">
     <!-- C -->
