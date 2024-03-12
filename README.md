@@ -115,6 +115,10 @@
   <!-- <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="unreal" width="55" height="55"/> </a> -->
   <!-- Aseprite - Pixel art -->
   <!-- <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg alt="aseprite" width="55" height="55"/> </a> -->
+  <!-- Godot -->  
+  <!-- <a href="https://godotengine.org/" target="_blank" rel=noreferrer> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="55" height="55"/> </a>-->  
+  <!-- PyGame -->  
+  <!-- <a href="https://www.pygame.org/news" target="_blank" rel=noreferrer> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="110" height="55"/> </a>-->  
 </p>
 <h4 align="left">Databases</h4>
 <p align="left">
