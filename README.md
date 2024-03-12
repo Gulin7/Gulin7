@@ -107,12 +107,14 @@
     <!-- Google Cloud Platform -->
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/> </a> 
 </p>
-<!-- <h4 align="left">Game Engines</h4> -->
+<!-- <h4 align="left">Game Engines & Design Tools</h4> -->
 <p align="left">
   <!-- Unity -->
   <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="55" height="55"/> </a>  -->
   <!-- Unreal Engine-->
   <!-- <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="unreal" width="55" height="55"/> </a> -->
+  <!-- Aseprite - Pixel art -->
+  <!-- <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20231108190719%21Logo_Aseprite.svg alt="aseprite" width="55" height="55"/> </a> -->
 </p>
 <h4 align="left">Databases</h4>
 <p align="left">
