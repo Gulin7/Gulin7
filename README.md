@@ -9,7 +9,7 @@
 
 -   📄 My tech experiences so far **Trainee Data Engineer(8 months)**
 
--   ⚡ Hobbies **football, ping-pong, chess, off-road, anime, video-games, music**
+-   ⚡ Hobbies **football, ping-pong, chess, off-road, anime and video-games**
 
 -   📫 How to reach me:
 <p>
