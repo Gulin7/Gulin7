@@ -1,7 +1,7 @@
 # 💫 About Me:
 📚 My passion started in highschool, where I particitated in Programming, Mathematics and Physics Olympiads<br>
 👩🏻‍💻 Computer Science Bachelor's Degree @Babeș-Bolyai University<br>
-📃 Learn more about my experience from my resume
+📃 Learn more about my experience from my <a href="https://drive.google.com/file/d/14wj5NXTk8R-CGWsGRL6GfvqorwL_lRVU/view?usp=drive_link"> resume </a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulin-tudor) 
